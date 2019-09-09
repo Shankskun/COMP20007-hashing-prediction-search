@@ -27,3 +27,6 @@ Word prediction project written in C
 1. it will print out all words in "jabberwocky" (file2) that are present in the dictionary "words-250k"(file1)
 1. words that are not present, will perform *levenshtein distance algorithm* to find the closest word to it
 1. once found it will print it out; but if its pure gibberish it will still show a "?" besides it
+
+
+*note - words-250K.txt, words-1M.txt and jabberwocky.txt are in a different directory `data & docs folder`, be sure to put it in the same folder before running it!

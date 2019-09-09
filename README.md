@@ -1,5 +1,8 @@
 # Hashing Dictionary Prediction Search  
-Word prediction project written in C
+Word prediction project written in C.   
+*Image below shows the few functions present:*
+
+![terminal func](https://github.com/Shankskun/COMP20007-hashing-prediction-search/blob/master/images/terminal.png)  
 
 ---
 
